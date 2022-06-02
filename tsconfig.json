@@ -1,24 +1,6 @@
-# About 
-这是我的关于react的tsconfig.json的配置
-
-# Usage
-
-```json
-
 {
-  "extends": "leftover-react-tsconfig",
-  "compilerOptions": {
-        //your config
-  }
-}
-
-```
-
-# 所有的配置项
-
-```json 
-
-{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "leftover react",
   "compilerOptions": {
     "target": "es6",                                  
     "lib": ["dom", "dom.iterable", "esnext"],          
@@ -44,5 +26,3 @@
      "skipLibCheck": true                              
   }
 }
-
-```

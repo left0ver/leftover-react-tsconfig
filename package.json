@@ -1,0 +1,22 @@
+{
+  "name": "leftover-react-tsconfig",
+  "version": "0.0.2",
+  "files": ["tsconfig.json", "package.json", "README.md","LICENSE"],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "description": "leftover的react的tsconfig的配置",
+  "keywords": ["leftover-react-tsconfig","tsconfig.json","react-tsconfig.json"],
+  "author": "leftover",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/left0ver/leftover-react-tsconfig.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/left0ver/leftover-react-tsconfig/issues"
+  },
+  "homepage": "https://github.com/left0ver/leftover-react-tsconfig#readme"
+}
