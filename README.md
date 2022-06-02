@@ -46,3 +46,7 @@
 }
 
 ```
+
+# License
+
+[MIT](https://github.com/left0ver/leftover-react-tsconfig/blob/main/LICENSE)
