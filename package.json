@@ -1,6 +1,6 @@
 {
   "name": "leftover-react-tsconfig",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "files": [
     "tsconfig.json",
     "package.json",
